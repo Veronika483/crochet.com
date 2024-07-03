@@ -1,0 +1,14 @@
+body {
+    background-color: #9fdde0;
+    background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1613230138_72-p-fon-sinie-kvadrati-92.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #edf4f5;
+}
+
+hr {
+    color: red;
+}
+a {
+    color: red
+}
